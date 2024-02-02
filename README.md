@@ -1,2 +1,2 @@
-# wp-woocommerce-kiusys
-Plugin para woocommerce para integrar Kiu System Solutions con wordpress
+# WP WooCommerce Kiusys
+Plugin Wordpress para integrar Kiu System Solutions a WooCommerce.
